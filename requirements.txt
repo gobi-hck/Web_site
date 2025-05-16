@@ -1,1 +1,1 @@
-pip3 install django
+python pip3 install django
